@@ -1,0 +1,4 @@
+C:\Users\49917566856\Desktop\workspace\LM\JavaScript\obj\Debug\net9.0\JavaScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49917566856\Desktop\workspace\LM\JavaScript\obj\Debug\net9.0\JavaScript.AssemblyInfoInputs.cache
+C:\Users\49917566856\Desktop\workspace\LM\JavaScript\obj\Debug\net9.0\JavaScript.AssemblyInfo.cs
+C:\Users\49917566856\Desktop\workspace\LM\JavaScript\obj\Debug\net9.0\JavaScript.csproj.CoreCompileInputs.cache

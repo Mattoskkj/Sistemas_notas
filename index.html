@@ -1,0 +1,50 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Pepe linda amor da minha vida</title>
+
+    <script src="script.js" defer></script>
+</head>
+<body class="body">
+    <h1>Ajudante do Professor</h1>
+
+    <form class="form" id="formulario">
+        
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" placeholder="Digite o nome do aluno" required><br>
+    
+    <label for="idade">Idade:</label>
+    <input type="text" id="idade" placeholder="Digite a idade do aluno" required> <br>
+    
+    <label for="nota1">Primeira Nota:</label>
+    <input type="text" id="nota1" placeholder="Digite a primeira nota do aluno" min="0" max="10" required><br>
+    
+    <label for="nota2">Segunda Nota:</label>
+    <input type="text" id="nota2" placeholder="Digite a segunda nota do aluno" min="0" max="10" required><br>
+    
+    <label for="nota3">Terceira Nota:</label>
+    <input type="text" id="nota3" placeholder="Digite a terceira nota do aluno" min="0" max="10" required><br>
+    <br>
+
+      <button type="submit">Enviar</button>
+      <button type="reset">Limpar</button>
+    </form>
+
+    <fieldset class="fieldset">
+        <h2>Informações do aluno</h2>
+    <p id="resultadoN"></p> 
+    <p id="resultadoI"></p>
+    <p id="resultado1"></p>
+    <p id="resultado2"></p>
+    <p id="resultado3"></p>
+    <p id="resultadoM"></p>
+    <p id="resultadoS"></p>
+    <p id="resultadoSOMA"></p>
+</fieldset>
+</body>
+</html>
